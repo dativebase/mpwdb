@@ -1,2 +1,4 @@
 _build/
 venv/
+*.egg-info/
+dist/
